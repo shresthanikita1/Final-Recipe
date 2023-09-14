@@ -1,0 +1,129 @@
+{
+    "receipes": {
+        "samosa": {
+            "id": "1",
+            "title": "Samosa",
+            "Description": "Samosa is a popular Indian snack made of crispy pastry filled with spiced potatoes, peas, and sometimes minced meat. It's deep-fried to perfection.",
+            "image": "Images/samosa.jpg",
+            "ingredients": ["Potatoes", "Peas", "Pastry dough", "Spices", "Oil for frying"],
+            "steps": {
+                "step1": "Boil and mash potatoes, mix with peas and spices.",
+                "step2": "Fill the pastry with the potato mixture, fold into a triangle.",
+                "step3": "Deep fry until golden brown."
+            }
+        },
+    
+        "pakora": {
+            "id": "2",
+            "title": "Pakora",
+            "Description": "Pakora is a deep-fried snack made from chickpea flour batter mixed with various vegetables like onions, spinach, or potatoes.",
+            "image": "Images/pakora.jpg",
+            "ingredients": ["Chickpea flour", "Vegetables", "Spices", "Oil for frying"],
+            "steps": {
+                "step1": "Slice or chop vegetables.",
+                "step2": "Dip them in chickpea flour batter mixed with spices.",
+                "step3": "Deep fry until crispy."
+            }
+        },
+    
+        "vada": {
+            "id": "3",
+            "title": "Vada",
+            "Description": "Vada is a South Indian snack made of deep-fried, spiced lentil doughnut-shaped fritters.",
+            "image": "Images/vada.jpg",
+            "ingredients": ["Urad dal (black gram lentils)", "Spices", "Oil for frying"],
+            "steps": {
+                "step1": "Soak urad dal, grind into a thick batter with spices.",
+                "step2": "Shape into doughnuts and deep fry."
+            }
+        },
+    
+        "bhel_puri": {
+            "id": "4",
+            "title": "Bhel Puri",
+            "Description": "Bhel Puri is a popular Indian street food snack made from puffed rice, vegetables, chutneys, and spices.",
+            "image": "Images/bhelpuri.jpg",
+            "ingredients": ["Puffed rice", "Chopped vegetables", "Chutneys", "Spices"],
+            "steps": {
+                "step1": "Mix puffed rice with chopped vegetables.",
+                "step2": "Add chutneys and spices, toss well and serve."
+            }
+        },
+    
+        "aloo_tikki": {
+            "id": "5",
+            "title": "Aloo Tikki",
+            "Description": "Aloo Tikki is a North Indian snack made from mashed potatoes mixed with spices, shaped into patties, and shallow-fried.",
+            "image": "Images/alootikki.jpg",
+            "ingredients": ["Potatoes", "Spices", "Oil for shallow frying"],
+            "steps": {
+                "step1": "Mix mashed potatoes with spices, shape into patties.",
+                "step2": "Shallow fry until golden brown."
+            }
+        },
+    
+        "paneer_tikka": {
+            "id": "6",
+            "title": "Paneer Tikka",
+            "Description": "Paneer Tikka is a popular Indian appetizer made from marinated paneer (cottage cheese) and vegetables, skewered and grilled.",
+            "image": "Images/paneertikka.jpg",
+            "ingredients": ["Paneer (cottage cheese)", "Marinade", "Vegetables", "Skewers"],
+            "steps": {
+                "step1": "Marinate paneer and vegetables, thread them onto skewers.",
+                "step2": "Grill until charred and serve."
+            }
+        },
+    
+        "dhokla": {
+            "id": "7",
+            "title": "Dhokla",
+            "Description": "Dhokla is a savory steamed cake made from fermented rice and chickpea flour, often served with chutneys.",
+            "image": "Images/dhokla.jpg",
+            "ingredients": ["Rice and chickpea flour", "Yogurt", "Spices", "Chutneys"],
+            "steps": {
+                "step1": "Prepare batter, ferment, and steam until done.",
+                "step2": "Cut into pieces and serve with chutneys."
+            }
+        },
+    
+        "pani_puri": {
+            "id": "8",
+            "title": "Pani Puri",
+            "Description": "Pani Puri is a popular Indian street food snack consisting of hollow, crispy shells filled with spicy tangy water and potato stuffing.",
+            "image": "Images/panipuri.jpg",
+            "ingredients": ["Puri shells", "Spicy tangy water", "Potato stuffing"],
+            "steps": {
+                "step1": "Fill puri shells with potato stuffing.",
+                "step2": "Dip in spicy tangy water and serve immediately."
+            }
+        },
+    
+        "dosa": {
+            "id": "9",
+            "title": "Dosa",
+            "Description": "Dosa is a South Indian crepe made from fermented rice and urad dal (lentils) batter, typically served with chutney and sambar.",
+            "image": "Images/dosa.jpg",
+            "ingredients": ["Rice and urad dal batter", "Oil for cooking", "Chutney", "Sambar"],
+            "steps": {
+                "step1": "Spread dosa batter on a hot griddle, cook until crispy.",
+                "step2": "Serve with chutney and sambar."
+            }
+        },
+    
+        "jalebi": {
+            "id": "10",
+            "title": "Jalebi",
+            "Description": "Jalebi is a sweet Indian dessert made from deep-fried, coiled batter soaked in sugar syrup.",
+            "image": "Images/jalebi.jpg",
+            "ingredients": ["Batter", "Sugar syrup", "Saffron strands"],
+            "steps": {
+                "step1": "Make batter, deep-fry in coiled shapes.",
+                "step2": "Soak in sugar syrup, garnish with saffron strands."
+            }
+        }
+    }
+}
+
+
+
+
